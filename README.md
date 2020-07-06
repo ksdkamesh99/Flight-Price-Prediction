@@ -16,6 +16,12 @@
   * [Contact](#contact-)
 
 
-
+## Overview
 
 A Flask based Web Application that Predicts the Flight Price using RandomForestRegressor.Its GUI is based on Swagger API. This is hosted on the Heroku platform.
+
+## Bug / Feature Request
+If you find a bug (gave undesired results), kindly open an issue [here](https://github.com/ksdkamesh99/Flight-Price-Prediction/issues/new/choose) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ksdkamesh99/Flight-Price-Prediction/issues/new/). Please include sample queries and their corresponding results.
+
