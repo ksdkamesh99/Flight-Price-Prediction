@@ -14,7 +14,7 @@
   * [Contact](#contact-)
 
 ## Demo
-![](demos.gif)
+![](demo.gif)
 
 
 ## Overview
