@@ -55,9 +55,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## License
 
 
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                                       Apache License
+                                  Version 2.0, January 2004
+                                http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
