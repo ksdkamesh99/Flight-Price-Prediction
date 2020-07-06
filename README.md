@@ -8,12 +8,13 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [To Do](#to-do-in-future-)
   * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
   * [License](#license)
   * [Contact](#contact-)
+
+## Demo
+![](demos.gif)
 
 
 ## Overview
