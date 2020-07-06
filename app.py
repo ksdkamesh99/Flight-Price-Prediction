@@ -11,7 +11,7 @@ from flask import Flask,request
 app=Flask(__name__)
 Swagger(app)
 
-model=pickle.load(open('model.pkl','rb+'))
+model=pickle.load(open(f'model.pkl','rb+'))
 
 @app.route('/')
 def welcome():
@@ -104,6 +104,6 @@ def predict():
     return str(prediction)
 
 
-
-app.run(debug=False)   
+if __name__ == "__main__":
+    app.run(debug=False)   
     
